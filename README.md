@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm M.Rizqullah</h1>
 <h3 align="center">I am from indonesia</h3>
 
-- 🔭 I’m currently studying on [Bumigora Universit](https://universitasbumigora.ac.id/)
+- 🔭 I’m currently studying on [Bumigora University](https://universitasbumigora.ac.id/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
